@@ -13,14 +13,14 @@
 
 - 💬 Ask me about *devlopment,projects,entrepreneurship*
 
-- 📫 How to reach me *aslikeeda1102@gmail.com*
+- 📫 How to reach me *abhichalo432@gmail.com*
 
 - ⚡ Fun fact *I am a newbie*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/iam_asrar011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iam_asrar011" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohd asrar ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohd asrar ahmed" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohd-asrar-ahmed-738b5922b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohd asrar ahmed" height="30" width="40" /></a>
 <a href="https://instagram.com/md_asrar011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="md_asrar011" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/mohd asrar ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mohd asrar ahmed" height="30" width="40" /></a>
 </p>
