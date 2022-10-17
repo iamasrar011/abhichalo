@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohd Asrar Ahmed</h1>
-<p align="left"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.baamboozle.com%2Fstudy%2F804949&psig=AOvVaw2MfWs2aBBUQDUTqXT8Lecx&ust=1666124067863000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCJDO_PuJ6PoCFQAAAAAdAAAAABAX"/> </p>
+<p align="left"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.baamboozle.com%2Fstudy%2F804949&psig=AOvVaw2MfWs2aBBUQDUTqXT8Lecx&ust=1666124067863000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCJDO_PuJ6PoCFQAAAAAdAAAAABAX" alt="abhichaloo" /> </p>
 <h3 align="center">Tech Enthusiast with Entrepreneur mindset always want to learn and explore new things.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhichaloo&label=Profile%20views&color=0e75b6&style=flat" alt="abhichaloo" /> </p>
