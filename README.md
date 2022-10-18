@@ -10,13 +10,13 @@
 
 - 🔭 I’m currently working on skills
 
-- 👯 I’m looking to collaborate on *Open Source real world projects*
+- 👯 I’m looking to collaborate on Open Source real world projects
 
-- 💬 Ask me about *devlopment,projects,entrepreneurship*
+- 💬 Ask me about devlopment,projects,entrepreneurship
 
-- 📫 How to reach me *abhichalo432@gmail.com*
+- 📫 How to reach me abhichalo432@gmail.com
 
-- ⚡ Fun fact *I am a newbie*
+- ⚡ Fun fact I am a newbie
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
