@@ -1,4 +1,8 @@
-<img align="center" src="https://readme-typing-svg.herokuapp.com?font=Walter+Turncoat&color=%230366DE&size=25&duration=4000&center=true&vCenter=true&width=550&lines=Hi 👋,+I'm+Mohd=Asrar+Ahmed;Tech+Enthusiast+With;Entrepreneur+Mindset;Who+Always+Want+To;Learn+And+Explore+Things" alt="Josip Neretljak" width="100%">
+<img align="center" src="https://readme-typing-svg.herokuapp.com?
+font=Walter+Turncoat&color=%230366DE&size=25&duration=4000&center=true&vCenter=true&width=550&lines=Hi 👋,+I'm+Mohd+Asrar+Ahmed;Tech+Enthusiast+With;Entrepreneur+Mindset;Who+Always+Want+To;Learn+And+Explore+Things" alt="Josip Neretljak" width="100%">
+
+
+
 <h1 align="center">Hi 👋, I'm Mohd Asrar Ahmed</h1>
 
 <h3 align="center">Tech Enthusiast with Entrepreneur mindset always want to learn and explore new things.</h3>
