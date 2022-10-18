@@ -1,5 +1,5 @@
 <img align="center" src="https://readme-typing-svg.herokuapp.com?
-font=Walter+Turncoat&color=%230366DE&size=25&duration=4000&center=true&vCenter=true&width=550&lines=Hi 👋,+I'm+Mohd+Asrar+Ahmed;Tech+Enthusiast+With;Entrepreneur+Mindset;Who+Always+Want+To;Learn+And+Explore+Things" alt="abhichaloo" width="100%">
+font=Walter+Turncoat&color=%230366DE&size=25&duration=4000&center=true&vCenter=true&width=550&lines=Hi 👋,+I'm+Mohd+Asrar+Ahmed;Tech+Enthusiast+With;Entrepreneur+Mindset;Who+Always+Want+To;Learn+And+Explore+Things" alt="/abhichaloo" width="100%">
 
 
 
