@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/iam_asrar011" target="blank"><img src="https://img.shields.io/twitter/follow/iam_asrar011?logo=twitter&style=for-the-badge" alt="iam_asrar011" /></a> </p>
 
-- 🔭 I’m currently working on *learning new things*
+- 🔭 I’m currently working on skills
 
 - 👯 I’m looking to collaborate on *Open Source real world projects*
 
