@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mohd Asrar Ahmed</h1>
 <div align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?lines=Tech+Enthusiast+with;Entrepreneur+Mindset+Who;Always+want+to+learn+and;Explore+New+Things...;Self+Motivated&color=teal&center=true" />
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Tech+Enthusiast+with;Entrepreneur+Mindset+Who;Always+want+to+learn+and;Explore+New+Things...;Self+Motivated :)&color=teal&center=true" />
  
 </div>
 
@@ -14,7 +14,7 @@
 
 <p align="left"> <a href="https://twitter.com/iam_asrar011" target="blank"><img src="https://img.shields.io/twitter/follow/iam_asrar011?logo=twitter&style=for-the-badge" alt="iam_asrar011" /></a> </p>
 
-- 🔭 I’m currently working on skills
+- 🔭 I’m currently exploring and Learning skills
 
 - 👯 I’m looking to collaborate on Open Source real world projects
 
