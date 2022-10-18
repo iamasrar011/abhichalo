@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mohd Asrar Ahmed</h1>
 <div align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?lines=Tech+Enthusiast+with;Entrepreneur+Mindset+Who;Always+want+to+learn+and;Explore+New+Things...;Self+Motivated :)&color=teal&center=true" />
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Tech+Enthusiast+with;Entrepreneur+Mindset+Who;Always+want+to+learn+and;Explore+New+Things...;Self+Motivated&color=teal&center=true" />
  
 </div>
 
