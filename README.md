@@ -1,6 +1,10 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mohd Asrar Ahmed</h1>
+<div align="center">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Tech+Enthusiast+with+Entrepreneur+Mindset;Who+Always+want+to+learn+and;Explore+new+things;Self+Motivated&color=teal&center=true" />
+ 
+</div>
 
 <h3 align="center">Tech Enthusiast with Entrepreneur mindset always want to learn and explore new things.</h3>
 
