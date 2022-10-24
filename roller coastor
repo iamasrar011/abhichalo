@@ -1,0 +1,7 @@
+t=int(input())
+for t in range(t):
+    x=input().split()
+    if int(x[0])>=int(x[1]):
+        print("YES")
+    else:
+        print("NO")
