@@ -1,4 +1,4 @@
-[![@abhichaloo's Holopin Board](https://holopin.io/api/user/board?user=hitblast)](https://holopin.io/@hitblast)
+[![@abhichaloo's Holopin Board](https://holopin.io/api/user/board?user=abhichaloo)](https://holopin.io/@hitblast)
 
 
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
