@@ -1,4 +1,4 @@
-[![@abhichaloo's Holopin Board](https://holopin.io/api/user/board?user=abhichalooa)](https://holopin.io/@abhichalooa)
+
 
 
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
@@ -8,6 +8,7 @@
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Tech+Enthusiast+with;Entrepreneur+Mindset+Who;Always+want+to+learn+and;Explore+New+Things...;Self+Motivated&color=teal&center=true" />
  
 </div>
+[![@abhichaloo's Holopin Board](https://holopin.io/api/user/board?user=abhichalooa)](https://holopin.io/@abhichalooa)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhichaloo&label=Profile%20views&color=0e75b6&style=flat" alt="abhichaloo" /> </p>
 
