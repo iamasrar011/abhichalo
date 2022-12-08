@@ -21,7 +21,7 @@
 
 - 📫 How to reach me abhichalo432@gmail.com
 
-- ⚡ Fun fact I am a newbie
+- ⚡ Fun fact I am a newbie -.-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
